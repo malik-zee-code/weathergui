@@ -1,0 +1,52 @@
+.transparent-glass {
+  height: 70%;
+  width: 60%;
+  background: transparent;
+  box-sizing: border-box;
+  box-shadow: 1px 1px 2px 2px #a5a5a5;
+  border-radius: 1rem;
+  opacity: 0.7;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  backdrop-filter: blur(1rem);
+  border: none;
+  .input {
+    margin-top: 20px;
+  }
+  .city {
+    margin-top: 20px;
+  }
+
+  .img-celcius {
+    display: flex;
+    margin-top: 20px;
+    .img {
+      background-image: url(https://cdn-icons-png.flaticon.com/128/146/146199.png);
+      background-size: cover;
+      height: 100px;
+      width: 100px;
+    }
+    .celcius {
+      margin-top: 20px;
+      margin-left: 10px;
+    }
+  }
+  .discription {
+    margin-top: 20px;
+  }
+  .humidity-wind,
+  .max-min {
+    display: flex;
+    margin-top: 20px;
+    .text1,
+    .text2,
+    .max,
+    .min {
+      padding-left: 50px;
+      padding-right: 50px;
+      font-size: 20px;
+      
+    }
+  }
+}

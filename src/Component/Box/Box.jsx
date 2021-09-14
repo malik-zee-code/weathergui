@@ -18,7 +18,7 @@ class Box extends Component {
     this.setState({ city: value });
   };
   onSubmit = (event) => {
-    if (event.key === "Enter") {
+    if (event.target.value) {
       this.state.city &&
         Getdata(this.state.city)
           .then((res) => res.data)

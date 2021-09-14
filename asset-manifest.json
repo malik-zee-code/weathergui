@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/weathergui/static/css/main.222a7f38.chunk.css",
+    "main.js": "/weathergui/static/js/main.00755d81.chunk.js",
+    "main.js.map": "/weathergui/static/js/main.00755d81.chunk.js.map",
+    "runtime-main.js": "/weathergui/static/js/runtime-main.1a4fbdcc.js",
+    "runtime-main.js.map": "/weathergui/static/js/runtime-main.1a4fbdcc.js.map",
+    "static/css/2.0e1dadbe.chunk.css": "/weathergui/static/css/2.0e1dadbe.chunk.css",
+    "static/js/2.dafd4b3f.chunk.js": "/weathergui/static/js/2.dafd4b3f.chunk.js",
+    "static/js/2.dafd4b3f.chunk.js.map": "/weathergui/static/js/2.dafd4b3f.chunk.js.map",
+    "static/js/3.f7828a4a.chunk.js": "/weathergui/static/js/3.f7828a4a.chunk.js",
+    "static/js/3.f7828a4a.chunk.js.map": "/weathergui/static/js/3.f7828a4a.chunk.js.map",
+    "index.html": "/weathergui/index.html",
+    "static/css/2.0e1dadbe.chunk.css.map": "/weathergui/static/css/2.0e1dadbe.chunk.css.map",
+    "static/css/main.222a7f38.chunk.css.map": "/weathergui/static/css/main.222a7f38.chunk.css.map",
+    "static/js/2.dafd4b3f.chunk.js.LICENSE.txt": "/weathergui/static/js/2.dafd4b3f.chunk.js.LICENSE.txt",
+    "static/media/Main.scss": "/weathergui/static/media/kaushik-panchal-0juC5JIhPks-unsplash.f33b1cb4.jpg",
+    "static/media/index.css": "/weathergui/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a4fbdcc.js",
+    "static/css/2.0e1dadbe.chunk.css",
+    "static/js/2.dafd4b3f.chunk.js",
+    "static/css/main.222a7f38.chunk.css",
+    "static/js/main.00755d81.chunk.js"
+  ]
+}

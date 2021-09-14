@@ -23,7 +23,6 @@
     display: flex;
     margin-top: 15px;
     .img {
-      
       background-size: cover;
       height: 100px;
       width: 100px;
@@ -35,6 +34,7 @@
   }
   .discription {
     margin-top: 20px;
+    color: cornsilk;
   }
   .humidity-wind,
   .max-min {
@@ -47,11 +47,7 @@
       padding-left: 50px;
       padding-right: 50px;
       font-size: 20px;
-      
-    }
-    .max,
-    .min{
-      color: aliceblue;
+      color: rgb(130, 245, 253);
     }
   }
 }

@@ -22,7 +22,10 @@ class Box extends Component {
       this.state.city &&
         Getdata(this.state.city)
           .then((res) => res.data)
-          .then((data) => this.setState({ data: data }));
+          
+          .then((data) => this.setState({ data: data }))
+    } else {
+      this.setState({ data: "" });
     }
   };
   render() {

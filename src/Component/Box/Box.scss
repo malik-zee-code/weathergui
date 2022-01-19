@@ -3,14 +3,15 @@
   width: 60%;
   background: transparent;
   box-sizing: border-box;
-  box-shadow: 1px 1px 2px 2px #a5a5a5;
+  //box-shadow: 1px 1px 2px 2px #a5a5a5;
   border-radius: 1rem;
   opacity: 0.7;
   display: flex;
   align-items: center;
   flex-direction: column;
-  backdrop-filter: blur(2em);
+  backdrop-filter: blur(8rem);
   border: none;
+  position:absolute;
   .input {
     margin-top: 20px;
     border-radius: 1rem;
@@ -47,7 +48,7 @@
       padding-left: 50px;
       padding-right: 50px;
       font-size: 20px;
-      color: rgb(130, 245, 253);
+      color: rgb(1, 1, 2);
     }
   }
 }
